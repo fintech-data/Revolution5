@@ -87,7 +87,7 @@ new products not publicly available policy_code=2
 
 ## **#2 기업 부도 데이터 **
 
-<pre><code>Y - Bankrupt?: Class label
+<pre><code>Y - Bankrupt? : Class label
 X1 - ROA(C) before interest and depreciation before interest: Return On Total Assets(C)
 X2 - ROA(A) before interest and % after tax: Return On Total Assets(A)
 X3 - ROA(B) before interest and depreciation after tax: Return On Total Assets(B)
