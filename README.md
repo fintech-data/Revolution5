@@ -82,7 +82,7 @@ new products not publicly available policy_code=2
 
 
 #### **데이터 불러오기**
-<pre><code>loan = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution4/main/loan.csv')
+<pre><code>loan = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution5/main/loan.csv')
 </code></pre>
 
 ## **#2 기업 부도 데이터**
