@@ -2,7 +2,7 @@
 
 ## **#1 신용위험 분석 데이터**
 
-<pre><code> [1]: id [NaN:0.0%] = A unique LC assigned ID for the loan listing.
+<pre><code>[1]: id [NaN:0.0%] = A unique LC assigned ID for the loan listing.
 [2]: member_id [NaN:0.0%] = A unique LC assigned Id for the borrower member.
 [3]: loan_amnt [NaN:0.0%] = The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
 [4]: funded_amnt [NaN:0.0%] = The total amount committed to that loan at that point in time.
