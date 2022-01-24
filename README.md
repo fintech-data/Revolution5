@@ -85,7 +85,7 @@ new products not publicly available policy_code=2
 <pre><code>loan = pd.read_csv('https://media.githubusercontent.com/media/fintech-data/Revolution4/main/loan.csv')
 </code></pre>
 
-## **#2 기업 부도 데이터 **
+## **#2 기업 부도 데이터**
 
 <pre><code>Y - Bankrupt? : Class label
 X1 - ROA(C) before interest and depreciation before interest: Return On Total Assets(C)
